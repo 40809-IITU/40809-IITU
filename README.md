@@ -86,5 +86,11 @@
 <hr/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Islam's GitHub Stats" />
+  <h3>🚀 Looking for my real projects & code?</h3>
+  <p>Check out my main developer profile where I actively build and commit:</p>
+  <p>
+    <a href="https://github.com/Isle4525">
+      <img src="https://img.shields.io/badge/Main_GitHub- Islam_Aitkazy-181717?style=for-the-badge&logo=github&logoColor=white" alt="Main GitHub Profile"/>
+    </a>
+  </p>
 </div>
