@@ -90,7 +90,7 @@
 <div align="center">
   <h3>👇 All active development & projects are here 👇</h3>
   
-  <a href="https://github.com/ТВОЙ_ОСНОВНОЙ_GITHUB_USERNAME">
+  <a href="https://github.com/Isle4525">
     <img src="https://img.shields.io/badge/GO_TO_MAIN_GITHUB-@ТВОЙ_ОСНОВНОЙ_GITHUB_USERNAME-black?style=for-the-badge&logo=github&logoColor=white&labelColor=2da44e" alt="Main Profile"/>
   </a>
   
