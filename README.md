@@ -85,12 +85,14 @@
 
 <hr/>
 
+<br/>
+
 <div align="center">
-  <h3>🚀 Looking for my real projects & code?</h3>
-  <p>Check out my main developer profile where I actively build and commit:</p>
-  <p>
-    <a href="https://github.com/Isle4525">
-      <img src="https://img.shields.io/badge/Main_GitHub- Islam_Aitkazy-181717?style=for-the-badge&logo=github&logoColor=white" alt="Main GitHub Profile"/>
-    </a>
-  </p>
+  <h3>👇 All active development & projects are here 👇</h3>
+  
+  <a href="https://github.com/ТВОЙ_ОСНОВНОЙ_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GO_TO_MAIN_GITHUB-@ТВОЙ_ОСНОВНОЙ_GITHUB_USERNAME-black?style=for-the-badge&logo=github&logoColor=white&labelColor=2da44e" alt="Main Profile"/>
+  </a>
+  
+  <p><sub style="color: #8b949e;">Academic account used primarily for university submissions</sub></p>
 </div>
