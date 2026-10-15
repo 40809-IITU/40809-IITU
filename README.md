@@ -91,7 +91,7 @@
   <h3>👇 All active development & projects are here 👇</h3>
   
   <a href="https://github.com/Isle4525">
-    <img src="https://img.shields.io/badge/GO_TO_MAIN_GITHUB-@ТВОЙ_ОСНОВНОЙ_GITHUB_USERNAME-black?style=for-the-badge&logo=github&logoColor=white&labelColor=2da44e" alt="Main Profile"/>
+    <img src="https://img.shields.io/badge/GO_TO_MAIN_GITHUB-@Isle4525-black?style=for-the-badge&logo=github&logoColor=white&labelColor=2da44e" alt="Main Profile"/>
   </a>
   
   <p><sub style="color: #8b949e;">Academic account used primarily for university submissions</sub></p>
